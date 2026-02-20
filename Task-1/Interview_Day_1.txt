@@ -1,0 +1,6 @@
+Day-1 Interview Preparation challenge
+Day-1	definition	answer
+closures	inner function remember variable from outer function even after the outer function has finished execution	
+scopes	lexical scope variable accessed based on their source code written	
+Hoisting	move variable declaration to  their top of their scope	
+this keyword		
